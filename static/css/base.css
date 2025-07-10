@@ -104,3 +104,23 @@ body {
         height: calc(100vh - 116px);
     }
 }
+
+@media (max-width: 440px) {
+    .header-container {
+        padding-top: 145px;
+    }
+
+    body {
+        height: calc(100vh - 145px);
+    }
+}
+
+@media (max-width: 380px) {
+    .header-container {
+        padding-top: 209px;
+    }
+
+    body {
+        height: calc(100vh - 209px);
+    }
+}
