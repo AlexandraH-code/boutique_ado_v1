@@ -12,6 +12,7 @@ dj3-cloudinary-storage==0.0.6
 Django==3.2.25
 django-allauth==0.50.0
 django-bootstrap-v5==1.0.11
+django-countries==7.2.1
 django-crispy-forms==1.14.0
 django-extensions==4.1
 django-summernote==0.8.20.0
@@ -30,6 +31,7 @@ python3-openid==3.2.0
 pytz==2025.2
 requests==2.32.4
 requests-oauthlib==2.0.0
+setuptools==75.8.0
 six==1.17.0
 soupsieve==2.7
 sqlparse==0.5.3
